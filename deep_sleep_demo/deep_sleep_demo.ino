@@ -18,7 +18,7 @@
 //#define DEEP_SLEEP_EXT1_ALL_LOW
 
 //Will wake up on touch of touch pin 9 (GPIO 32)
-#define DEEP_SLEEP_TOUCH
+//#define DEEP_SLEEP_TOUCH
 
 
 // keep track of how many times we've come out of deep sleep
